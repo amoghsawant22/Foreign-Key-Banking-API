@@ -1,5 +1,5 @@
 # Foreign Banking App
-
+(THIS IS JUST A PROTOTYPE PROJECT FOR LEARNING AND SHOWCASING SKILLS)
 This is a backend application for managing foreign banking transactions. It is built using Spring Boot and MySQL, with Postman being used to test the APIs. The system allows for managing customer accounts, transactions (deposits, withdrawals), and automatically updates account balances in real time.
 
 ## Tech Stack
